@@ -1,6 +1,11 @@
 /* h2{
-            color: chocolate;
-        } */
-        .pepe{
-            color: blue;
-        }
+    color: chocolate;
+} */
+.pepe{
+    color: blue;
+    text-decoration: underline;
+    
+}
+body{
+    background-color: cadetblue;
+}
