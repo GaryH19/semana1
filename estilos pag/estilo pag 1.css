@@ -1,0 +1,38 @@
+/* h2{
+    color: chocolate;
+} */  
+body{
+    background-color:rgb(139, 159, 168);
+}
+h1{
+    color:aquamarine;
+    text-decoration: underline;
+    text-align:center; 
+}
+h2{
+    color: aquamarine;
+    text-decoration: underline;
+}
+p{
+    color: aqua;
+    text-transform: uppercase;
+    text-align:center;
+}
+table, td, th {  
+    border: 1px solid #ddd;
+    text-align: left;
+    
+}
+  
+table {
+    border-collapse: collapse;
+    width: 50%;
+    
+}
+  
+th, td {
+    padding: 10px;
+}
+.img{
+    width:100px;height:100px;
+}
