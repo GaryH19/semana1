@@ -5,12 +5,12 @@ body{
     background-color:rgb(139, 159, 168);
 }
 h1{
-    color:aquamarine;
+    color: black;
     text-decoration: underline;
     text-align:center; 
 }
 h2{
-    color: aquamarine;
+    color: black;
     text-decoration: underline;
 }
 p{
@@ -28,6 +28,7 @@ table {
     border-collapse: collapse;
     width: 50%;
     
+    
 }
   
 th, td {
@@ -35,4 +36,7 @@ th, td {
 }
 .img{
     width:100px;height:100px;
+}
+.volver{
+    text-align:center;
 }
