@@ -1,42 +1,35 @@
-/* h2{
-    color: chocolate;
-} */  
 body{
-    background-color:rgb(139, 159, 168);
-}
+    background-image: url("/imgenes pg/fondo web 3.jpg");
+    
+  }
 h1{
     color: black;
     text-decoration: underline;
     text-align:center; 
+    font-family: Arial, Helvetica, sans-serif;
 }
 h2{
     color: black;
     text-decoration: underline;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
 }
 p{
-    color: aqua;
-    text-transform: uppercase;
+    color: black;
     text-align:center;
+    font-size: 150%;
+    font-family: Arial, Helvetica, sans-serif;
 }
-table, td, th {  
-    border: 1px solid #ddd;
-    text-align: left;
-    
+.p{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
 }
-  
-table {
-    border-collapse: collapse;
-    width: 50%;
-    
-    
-}
-  
-th, td {
-    padding: 10px;
-}
+
 .img{
-    width:100px;height:100px;
+    
+    width:200px;height: 200px;
 }
-.volver{
-    text-align:center;
+.descrip{
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
 }
