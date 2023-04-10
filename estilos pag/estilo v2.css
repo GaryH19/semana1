@@ -1,0 +1,29 @@
+.row{
+   right: 100px;
+   align-items:center ;
+}
+
+.Titulo-p1{
+    text-align: center;
+    text-decoration: underline;
+}
+img{
+    margin-top: 50px;
+    width: 1600px; height: 300px;
+}
+p{
+    color: black;
+    text-decoration: solid;
+    background-color: rgb(232, 214, 186, 0.7);
+    
+    
+}
+
+.TitutloCarrusel{
+    color: black;
+    text-decoration: underline;
+    background-color: rgb(232, 214, 186, 0.7);
+}
+body{
+    background-image: url("/imgenes pg/fondo web 3.jpg");
+}
