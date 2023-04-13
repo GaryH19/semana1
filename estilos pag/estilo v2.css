@@ -1,15 +1,15 @@
-.row{
-   right: 100px;
-   align-items:center ;
-}
 
 .Titulo-p1{
     text-align: center;
     text-decoration: underline;
 }
+.Texto-1{
+    text-align: center;
+    font-size: 150%;
+}
 img{
-    margin-top: 50px;
-    width: 1600px; height: 300px;
+    margin-top: 5%;
+   
 }
 p{
     color: black;
@@ -26,4 +26,37 @@ p{
 }
 body{
     background-image: url("/imgenes pg/fondo web 3.jpg");
+}
+
+.image-text-container {
+    width: 25%;
+    float: left ;
+    
+}
+img {
+    width: 80%;
+    height: 10%;
+}
+.d-block{
+    border: 5px solid black;
+}
+ .container {
+    /* position:absolute;
+    width: 800%; */
+    /* margin: 0 auto; */
+    position:absolute;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(184, 144, 130, 0.5);
+    padding: 9px;
+    text-align: center;
+    left: 10%;
+    top:200% ;
+}
+
+.Titulo-pg{
+    color: black;
+    text-decoration: underline;
+    text-align:center;
+    font-family: Arial, Helvetica, sans-serif;
 }
